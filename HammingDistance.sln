@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammingDistance", "HammingDistance\HammingDistance.csproj", "{71595DE9-A730-45D7-B69F-A99DC9A8E419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{EB75508B-564E-4215-A14A-3CAE58396784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{B2C0220E-3E2B-49BB-880D-DAE45B1949CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71595DE9-A730-45D7-B69F-A99DC9A8E419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71595DE9-A730-45D7-B69F-A99DC9A8E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71595DE9-A730-45D7-B69F-A99DC9A8E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71595DE9-A730-45D7-B69F-A99DC9A8E419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB75508B-564E-4215-A14A-3CAE58396784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB75508B-564E-4215-A14A-3CAE58396784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB75508B-564E-4215-A14A-3CAE58396784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB75508B-564E-4215-A14A-3CAE58396784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C0220E-3E2B-49BB-880D-DAE45B1949CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C0220E-3E2B-49BB-880D-DAE45B1949CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C0220E-3E2B-49BB-880D-DAE45B1949CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C0220E-3E2B-49BB-880D-DAE45B1949CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {840B26E7-02CF-4C69-B34B-6196E9F087F5}
+	EndGlobalSection
+EndGlobal
